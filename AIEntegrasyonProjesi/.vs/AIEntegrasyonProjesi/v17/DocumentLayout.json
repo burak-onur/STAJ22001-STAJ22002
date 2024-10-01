@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bonur\\source\\repos\\AIEntegrasyonProjesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAD52FE-5645-44BA-AC3D-26B71B7A1BEE}|AiEntegrasyonProjesi\\AiEntegrasyonProjesi.csproj|c:\\users\\bonur\\source\\repos\\aientegrasyonprojesi\\aientegrasyonprojesi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CAD52FE-5645-44BA-AC3D-26B71B7A1BEE}|AiEntegrasyonProjesi\\AiEntegrasyonProjesi.csproj|solutionrelative:aientegrasyonprojesi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAD52FE-5645-44BA-AC3D-26B71B7A1BEE}|AiEntegrasyonProjesi\\AiEntegrasyonProjesi.csproj|c:\\users\\bonur\\source\\repos\\aientegrasyonprojesi\\aientegrasyonprojesi\\controllers\\googlegenerativeaiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CAD52FE-5645-44BA-AC3D-26B71B7A1BEE}|AiEntegrasyonProjesi\\AiEntegrasyonProjesi.csproj|solutionrelative:aientegrasyonprojesi\\controllers\\googlegenerativeaiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAD52FE-5645-44BA-AC3D-26B71B7A1BEE}|AiEntegrasyonProjesi\\AiEntegrasyonProjesi.csproj|c:\\users\\bonur\\source\\repos\\aientegrasyonprojesi\\aientegrasyonprojesi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7CAD52FE-5645-44BA-AC3D-26B71B7A1BEE}|AiEntegrasyonProjesi\\AiEntegrasyonProjesi.csproj|solutionrelative:aientegrasyonprojesi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAD52FE-5645-44BA-AC3D-26B71B7A1BEE}|AiEntegrasyonProjesi\\AiEntegrasyonProjesi.csproj|c:\\users\\bonur\\source\\repos\\aientegrasyonprojesi\\aientegrasyonprojesi\\data\\dbbaglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CAD52FE-5645-44BA-AC3D-26B71B7A1BEE}|AiEntegrasyonProjesi\\AiEntegrasyonProjesi.csproj|solutionrelative:aientegrasyonprojesi\\data\\dbbaglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAD52FE-5645-44BA-AC3D-26B71B7A1BEE}|AiEntegrasyonProjesi\\AiEntegrasyonProjesi.csproj|c:\\users\\bonur\\source\\repos\\aientegrasyonprojesi\\aientegrasyonprojesi\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CAD52FE-5645-44BA-AC3D-26B71B7A1BEE}|AiEntegrasyonProjesi\\AiEntegrasyonProjesi.csproj|solutionrelative:aientegrasyonprojesi\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAD52FE-5645-44BA-AC3D-26B71B7A1BEE}|AiEntegrasyonProjesi\\AiEntegrasyonProjesi.csproj|c:\\users\\bonur\\source\\repos\\aientegrasyonprojesi\\aientegrasyonprojesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CAD52FE-5645-44BA-AC3D-26B71B7A1BEE}|AiEntegrasyonProjesi\\AiEntegrasyonProjesi.csproj|solutionrelative:aientegrasyonprojesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAD52FE-5645-44BA-AC3D-26B71B7A1BEE}|AiEntegrasyonProjesi\\AiEntegrasyonProjesi.csproj|c:\\users\\bonur\\source\\repos\\aientegrasyonprojesi\\aientegrasyonprojesi\\models\\airesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CAD52FE-5645-44BA-AC3D-26B71B7A1BEE}|AiEntegrasyonProjesi\\AiEntegrasyonProjesi.csproj|solutionrelative:aientegrasyonprojesi\\models\\airesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAD52FE-5645-44BA-AC3D-26B71B7A1BEE}|AiEntegrasyonProjesi\\AiEntegrasyonProjesi.csproj|c:\\users\\bonur\\source\\repos\\aientegrasyonprojesi\\aientegrasyonprojesi\\models\\airequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CAD52FE-5645-44BA-AC3D-26B71B7A1BEE}|AiEntegrasyonProjesi\\AiEntegrasyonProjesi.csproj|solutionrelative:aientegrasyonprojesi\\models\\airequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAD52FE-5645-44BA-AC3D-26B71B7A1BEE}|AiEntegrasyonProjesi\\AiEntegrasyonProjesi.csproj|c:\\users\\bonur\\source\\repos\\aientegrasyonprojesi\\aientegrasyonprojesi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CAD52FE-5645-44BA-AC3D-26B71B7A1BEE}|AiEntegrasyonProjesi\\AiEntegrasyonProjesi.csproj|solutionrelative:aientegrasyonprojesi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\bonur\\source\\repos\\AIEntegrasyonProjesi\\AIEntegrasyonProjesi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AIEntegrasyonProjesi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\bonur\\source\\repos\\AIEntegrasyonProjesi\\AIEntegrasyonProjesi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AIEntegrasyonProjesi\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T23:00:40.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AiRequest.cs",
+              "DocumentMoniker": "C:\\Users\\bonur\\source\\repos\\AIEntegrasyonProjesi\\AIEntegrasyonProjesi\\Models\\AiRequest.cs",
+              "RelativeDocumentMoniker": "AIEntegrasyonProjesi\\Models\\AiRequest.cs",
+              "ToolTip": "C:\\Users\\bonur\\source\\repos\\AIEntegrasyonProjesi\\AIEntegrasyonProjesi\\Models\\AiRequest.cs",
+              "RelativeToolTip": "AIEntegrasyonProjesi\\Models\\AiRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T22:45:16.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\bonur\\source\\repos\\AIEntegrasyonProjesi\\AIEntegrasyonProjesi\\Models\\AiResponse.cs",
+              "RelativeDocumentMoniker": "AIEntegrasyonProjesi\\Models\\AiResponse.cs",
+              "ToolTip": "C:\\Users\\bonur\\source\\repos\\AIEntegrasyonProjesi\\AIEntegrasyonProjesi\\Models\\AiResponse.cs",
+              "RelativeToolTip": "AIEntegrasyonProjesi\\Models\\AiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T22:38:49.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bonur\\source\\repos\\AIEntegrasyonProjesi\\AIEntegrasyonProjesi\\Program.cs",
+              "RelativeDocumentMoniker": "AIEntegrasyonProjesi\\Program.cs",
+              "ToolTip": "C:\\Users\\bonur\\source\\repos\\AIEntegrasyonProjesi\\AIEntegrasyonProjesi\\Program.cs",
+              "RelativeToolTip": "AIEntegrasyonProjesi\\Program.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T22:23:51.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AiController.cs",
+              "DocumentMoniker": "C:\\Users\\bonur\\source\\repos\\AIEntegrasyonProjesi\\AIEntegrasyonProjesi\\Controllers\\AiController.cs",
+              "RelativeDocumentMoniker": "AIEntegrasyonProjesi\\Controllers\\AiController.cs",
+              "ToolTip": "C:\\Users\\bonur\\source\\repos\\AIEntegrasyonProjesi\\AIEntegrasyonProjesi\\Controllers\\AiController.cs",
+              "RelativeToolTip": "AIEntegrasyonProjesi\\Controllers\\AiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T22:24:04.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbBaglanti.cs",
+              "DocumentMoniker": "C:\\Users\\bonur\\source\\repos\\AIEntegrasyonProjesi\\AIEntegrasyonProjesi\\Data\\DbBaglanti.cs",
+              "RelativeDocumentMoniker": "AIEntegrasyonProjesi\\Data\\DbBaglanti.cs",
+              "ToolTip": "C:\\Users\\bonur\\source\\repos\\AIEntegrasyonProjesi\\AIEntegrasyonProjesi\\Data\\DbBaglanti.cs",
+              "RelativeToolTip": "AIEntegrasyonProjesi\\Data\\DbBaglanti.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T22:40:02.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bonur\\source\\repos\\AIEntegrasyonProjesi\\AIEntegrasyonProjesi\\appsettings.json",
+              "RelativeDocumentMoniker": "AIEntegrasyonProjesi\\appsettings.json",
+              "ToolTip": "C:\\Users\\bonur\\source\\repos\\AIEntegrasyonProjesi\\AIEntegrasyonProjesi\\appsettings.json",
+              "RelativeToolTip": "AIEntegrasyonProjesi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-08T22:13:02.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GoogleGenerativeAiClient.cs",
+              "DocumentMoniker": "C:\\Users\\bonur\\source\\repos\\AIEntegrasyonProjesi\\AIEntegrasyonProjesi\\Controllers\\GoogleGenerativeAiClient.cs",
+              "RelativeDocumentMoniker": "AIEntegrasyonProjesi\\Controllers\\GoogleGenerativeAiClient.cs",
+              "ToolTip": "C:\\Users\\bonur\\source\\repos\\AIEntegrasyonProjesi\\AIEntegrasyonProjesi\\Controllers\\GoogleGenerativeAiClient.cs",
+              "RelativeToolTip": "AIEntegrasyonProjesi\\Controllers\\GoogleGenerativeAiClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T14:09:24.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\bonur\\source\\repos\\AIEntegrasyonProjesi\\AIEntegrasyonProjesi\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AIEntegrasyonProjesi\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\bonur\\source\\repos\\AIEntegrasyonProjesi\\AIEntegrasyonProjesi\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AIEntegrasyonProjesi\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T16:42:52.516Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
